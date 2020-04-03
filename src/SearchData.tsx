@@ -1,0 +1,18 @@
+export const topCompanies = [
+    { company_name: 'Accenture' },
+    { company_name: 'Capgemini' },
+    { company_name: 'Xion' },
+    { company_name: 'Delloite' },
+    { company_name: 'CitiusTech' },
+    { company_name: 'Some Company' },
+    { company_name: 'Some Company1' },
+    { company_name: 'Some Company2' },
+    { company_name: 'Some Company3' },
+    { company_name: 'Some Company4' },
+    { company_name: 'Some Company5' },
+    { company_name: 'Some Company6' },
+    { company_name: 'Some Company7' },
+    { company_name: 'Some Company8' },
+    { company_name: 'Some Company9' },
+    { company_name: 'Some Company10' },
+  ];
